@@ -11,7 +11,7 @@ You can connect with me at:
 <a href="https://www.linkedin.com/in/hgautam846"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp; <a href="https://www.instagram.com/hgautam846"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </div>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/harshitgautam846) [![Visitors](https://vbr.wocr.tk/badge?page_id=harshitgautam846.visitor-badge&color=00cf00)] 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/harshitgautam846) (![Visitors](https://vbr.wocr.tk/badge?page_id=harshitgautam846.visitor-badge&color=00cf00))
 
 <!--
 **harshitgautam846/harshitgautam846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
