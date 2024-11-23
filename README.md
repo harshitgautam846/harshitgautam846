@@ -3,11 +3,6 @@
   
 ### Hi there 👋, I'm Harshit Gautam
 
-</span>
-  
-<span style="display:block;text-align:center">![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)</span>
-
-</div>
 
 
 - 🔭 I’m currently working on [GetSimpl](https://github.com/GetSimpl). I have previously worked at Lambdatest, Samsung R&D Delhi.
