@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <span style="display:block;text-align:center">
   
 ### Hi there 👋, I'm Harshit Gautam
